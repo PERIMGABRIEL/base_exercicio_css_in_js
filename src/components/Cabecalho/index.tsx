@@ -8,4 +8,3 @@ const Cabecalho: React.FC = () => (
 );
 
 export default Cabecalho;
-
